@@ -2,8 +2,6 @@
 
 A Dapp to stake LP tokens into a pool contract and earn rewards tokens in return.
 
-This project was developed for the ["ETB Project #2"](https://github.com/jklepatch/eattheblocks/tree/master/etb-projects/project2-staking) Hackathon organised by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks/about)
-
 
 The pool implements an efficient O(1) algo to distribute the rewards based on the paper [calable-reward-distribution-paper](https://uploads-ssl.webflow.com/5ad71ffeb79acc67c8bcdaba/5ad8d1193a40977462982470_scalable-reward-distribution-paper.pdf
 )
